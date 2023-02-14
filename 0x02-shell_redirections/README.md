@@ -1,1 +1,1 @@
-I/O redirections abd filters
+0x02 Shell I/O redirections and filters
